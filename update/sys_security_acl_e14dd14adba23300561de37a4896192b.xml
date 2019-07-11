@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_376224_marketing_marketing_event__x_marketing_events_event_</description>
+        <name>x_376224_marketing_marketing_event__x_marketing_events_event_</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-11 09:19:38</sys_created_on>
+        <sys_id>e14dd14adba23300561de37a4896192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376224_marketing_marketing_event__x_marketing_events_event_</sys_name>
+        <sys_package display_value="Marketing Event" source="x_376224_marketing">00d61106dba23300561de37a48961916</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event">00d61106dba23300561de37a48961916</sys_scope>
+        <sys_update_name>sys_security_acl_e14dd14adba23300561de37a4896192b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-11 09:19:38</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

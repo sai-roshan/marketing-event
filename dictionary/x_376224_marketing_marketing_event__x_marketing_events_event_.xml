@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Marketing Event [x_marketing_events_event]" max_length="40" name="x_376224_marketing_marketing_event__x_marketing_events_event_" type="collection"/>
+</database>
